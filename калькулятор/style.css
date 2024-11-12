@@ -1,0 +1,39 @@
+body {
+    
+    width: 250px;
+margin: 400px auto;
+
+}
+
+html {
+    background-color: #adc178;
+}
+.xoika {
+    width: 6em; /* Ширина кнопки */
+    height: 3em; /* Высота кнопки */
+    background-color: #dde5b6;
+}
+.xoi {
+    background-color: #a98467;
+    width: 6em; /* Ширина кнопки */
+    height: 3em; /* Высота кнопки */
+}
+.rez {
+    background-color: #6C584C;
+}
+.vv {
+    width: 20em; /* Ширина кнопки */
+    height: 3em; /* Высота кнопки */
+}
+.r {
+    background-color: rgb(202, 197, 148);
+}
+.u {
+    width: 250px;
+    margin: 20px auto;
+}
+.text {
+    width: 150px;
+margin: 30px auto;
+font-size: 30;
+}
